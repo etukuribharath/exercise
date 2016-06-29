@@ -1,0 +1,35 @@
+.divclass{
+	width: 80%;
+	background-color: red;
+	margin:auto;
+	overflow: hidden;
+}
+h1{
+	width:100%;
+	color:white;
+	text-align: center;
+	overflow:hidden;
+}
+div{
+	width: 70%;
+	height: 600px;
+	color: red;
+	background: yellow;
+	float:left;
+	text-align: center;
+}
+aside{
+	width: 30%;
+	height: 600px;
+	background: green;
+	float: left;
+	text-align: left;
+		}
+ul li{
+	list-style: none;
+	text-align: left;
+}
+body{
+	width: 80%;
+	margin:auto;
+}
